@@ -21,6 +21,9 @@
     overflow-y: scroll;
 }
 
+    .requests-window-btn p {
+        font-size: 12px;
+    }
     .requests-window-header{
         height: 3rem;
     }
