@@ -1,6 +1,6 @@
 # Realtime Chat App
 
-Welcome to the Realtime Chat App project! Our application offers a streamlined chat experience where recipients can view the sender's message as it is being typed. This innovative feature not only enhances real-time communication but also minimizes the need for storing chat history, consequently reducing storage usage. Furthermore, by not retaining chat messages, our platform significantly decreases the risk of sensitive information leakage, such as one-time passwords (OTPs).
+Welcome to the Realtime Chat App project! Our application offers a streamlined chat experience where recipients can **view the sender's message as it is being typed**. This innovative feature not only enhances real-time communication but also minimizes the need for storing chat history, consequently reducing storage usage. Furthermore, by not retaining chat messages, our platform significantly decreases the risk of sensitive information leakage, such as one-time passwords (OTPs).
 
 ## Live Demo
 
